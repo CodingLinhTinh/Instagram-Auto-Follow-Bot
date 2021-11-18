@@ -7,8 +7,8 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/codinglinhtinh/Instagram-Auto-Follow-Bot?style=for-the-badge)
 
 ## Description
->Một IG BOT đơn giản
->Tự động follow những người mà bạn muốn cướp follow
+>Một IG BOT đơn giản.
+>Tự động follow những người mà bạn muốn cướp follow.
 >Tự động đăng nhập vào IG
 
 ## Getting Started
