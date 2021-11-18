@@ -8,7 +8,9 @@
 
 ## Description
 >Một IG BOT đơn giản.
+
 >Tự động follow những người mà bạn muốn cướp follow.
+
 >Tự động đăng nhập vào IG
 
 ## Getting Started
