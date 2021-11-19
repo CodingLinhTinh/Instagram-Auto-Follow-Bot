@@ -19,12 +19,13 @@
 ### 💻 Dependencies
 * Cài đặt Chrome Driver, lưu đường dẫn đến nơi cài Chrome driver ở Chrome_driver_path trong main.py
 
-<a href='https://chromedriver.chromium.org/downloads'>Link cài Chrome Driver</a>
+    ⭐<a href='https://chromedriver.chromium.org/downloads'>Link cài Chrome Driver</a>
 
-Lưu ý!! Hãy cài bản chrome driver phù hợp với trình duyệt Chrome đang dùng.
-Để kiểm tra đang dùng bản Chrome nào thì ở góc phải <b>Chrome</b>, bấm vào dấu <b>ba chấm</b> -> <b>Help</b> -> <b>About Google Chrome<b>
+    Lưu ý!! Hãy cài bản chrome driver phù hợp với trình duyệt Chrome đang dùng.
+    Để kiểm tra đang dùng bản Chrome nào thì ở góc phải <b>Chrome</b>, bấm vào dấu <b>ba chấm</b> -> <b>Help</b> -> <b>About Google Chrome<b>
     
 * Sau đó import thư viện Selenium vào project
+    
   <code>
       pip install selenium
   </code>
