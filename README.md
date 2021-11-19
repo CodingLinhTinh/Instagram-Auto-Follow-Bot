@@ -32,6 +32,7 @@
 Hoặc là thả sao ⭐⭐⭐⭐⭐
 
 ## 🔎 Help
+Lưu ý nên chạy BOT 1 lần/1 tiếng, trách bị tạm khóa.
 
 Nếu có vấn đề gì hãy gửi lên ISSUES.
 Thanks.
