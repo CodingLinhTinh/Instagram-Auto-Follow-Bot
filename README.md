@@ -26,9 +26,10 @@
     
 * Sau đó import thư viện Selenium vào project
     
-  <code>
+  ```
       pip install selenium
-  </code>
+  ```
+* Nên sử dụng Jupyter để test.
 
 ## 📫 Contributing to Instagram-Auto-Follow-Bot
 Để đóng góp Instagram-Auto-Follow-Bot hãy làm theo các bước sau:
