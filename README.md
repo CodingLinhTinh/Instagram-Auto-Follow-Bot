@@ -11,15 +11,17 @@
 
 >Tự động follow những người mà bạn muốn cướp follow.
 
+>Tự động unfollow.
+
 >Tự động đăng nhập vào IG
 
 ## Getting Started
 ### 💻 Dependencies
 
-* Hãy import thư viện Selenium
+* Hãy import thư viện Selenium vào project
 
-## 📫 Contributing to Cookies-Auto-Clicking-Bot
-Để đóng góp Cookies-Auto-Clicking-Bot hãy làm theo các bước sau:
+## 📫 Contributing to Instagram-Auto-Follow-Bot
+Để đóng góp Instagram-Auto-Follow-Bot hãy làm theo các bước sau:
 
     >1. Fork kho lưu trữ này.
     >2. Tạo một nhánh: `git checkout -b <branch_name>`.
