@@ -17,8 +17,17 @@
 
 ## Getting Started
 ### 💻 Dependencies
+* Cài đặt Chrome Driver, lưu đường dẫn đến nơi cài Chrome driver ở Chrome_driver_path trong main.py
 
-* Hãy import thư viện Selenium vào project
+<a href='https://chromedriver.chromium.org/downloads'>Link cài Chrome Driver</a>
+
+Lưu ý!! Hãy cài bản chrome driver phù hợp với trình duyệt Chrome đang dùng.
+Để kiểm tra đang dùng bản Chrome nào thì ở góc phải <b>Chrome</b>, bấm vào dấu <b>ba chấm</b> -> <b>Help</b> -> <b>About Google Chrome<b>
+    
+* Sau đó import thư viện Selenium vào project
+  <code>
+      pip install selenium
+  </code>
 
 ## 📫 Contributing to Instagram-Auto-Follow-Bot
 Để đóng góp Instagram-Auto-Follow-Bot hãy làm theo các bước sau:
@@ -32,9 +41,10 @@
 Hoặc là thả sao ⭐⭐⭐⭐⭐
 
 ## 🔎 Help
-Lưu ý nên chạy BOT 1 lần/1 tiếng, trách bị tạm khóa.
+Lưu ý nên chạy BOT 1 lần/1 tiếng, trách tài khoản bị tạm khóa.
 
 Nếu có vấn đề gì hãy gửi lên ISSUES.
+    
 Thanks.
 
 ## 🧐 Authors
