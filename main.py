@@ -10,7 +10,7 @@ import InstaFollower
 username = ''
 password = ''
 
-#Acc that you want to follow
+#Acc that you want to get follow
 acc_follower = ''
 
 chrome_driver_path = ''
